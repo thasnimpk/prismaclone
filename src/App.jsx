@@ -1,7 +1,7 @@
 import "./App.css";
 
 
-import Main from "./components/main";
+import Main from "./components/main.jsx";
 import Section1 from "./components/section1";
 import Stn2 from "./components/Stn2";
 import Stn3 from "./components/stn3";
